@@ -1,0 +1,9 @@
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\bin\Debug\netstandard2.0\FactoryMethodDP.deps.json
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\bin\Debug\netstandard2.0\FactoryMethodDP.dll
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\bin\Debug\netstandard2.0\FactoryMethodDP.pdb
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\obj\Debug\netstandard2.0\FactoryMethodDP.csprojAssemblyReference.cache
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\obj\Debug\netstandard2.0\FactoryMethodDP.csproj.CoreCompileInputs.cache
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\obj\Debug\netstandard2.0\FactoryMethodDP.AssemblyInfoInputs.cache
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\obj\Debug\netstandard2.0\FactoryMethodDP.AssemblyInfo.cs
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\obj\Debug\netstandard2.0\FactoryMethodDP.dll
+D:\Project\PracticeApps\DesignPatterns\FactoryMethodDP\obj\Debug\netstandard2.0\FactoryMethodDP.pdb

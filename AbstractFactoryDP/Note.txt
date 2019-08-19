@@ -1,0 +1,16 @@
+﻿The classes and objects participating in the above UML class diagram are as follow.
+
+AbstractFactory
+This is an interface for operations which is used to create abstract product.
+
+ConcreteFactory
+This is a class which implements the AbstractFactory interface operations to create concrete products.
+
+AbstractProduct
+This declares an interface for a type of product object
+
+Product
+This defines a product object to be created by the corresponding concrete factory also implements the AbstractProduct interface
+
+Client
+This is a class which uses AbstractFactory and AbstractProduct interfaces to create a family of related objects.
